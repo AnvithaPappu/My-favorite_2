@@ -1,0 +1,23 @@
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: px;
+    right: px;
+    cursor: pointer;
+    color: black;
+}
+img {
+  height: 200px;
+}
+body {
+  text-align: center;
+  background: pink;
+}
+h1 {
+  font-size: 20px;
+}
+p {
+  font-size: 20px;
+}
+
